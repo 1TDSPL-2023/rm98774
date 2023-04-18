@@ -7,19 +7,11 @@
   box-sizing:border-box;
 }
 
-body{
-    font-size: 10px;
+html{
+    font-size: 62.7%;
 }
 
 .tit-sec{
     text-align: center;
-    font-size: 0.5em;
-}
-
-.conteudo{
-    font-size: 3em;
-}
-
-.conteudo p{
-    font-size: 3em;
+    font-size: 5rem;
 }
