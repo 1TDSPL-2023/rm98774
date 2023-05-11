@@ -18,3 +18,4 @@ function resultado(visor) {
     });
     console.log(total);
 }
+//commit
